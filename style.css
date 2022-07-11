@@ -1,7 +1,8 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
-}#chobi{
+}
+#chobi{
     background: url(images/donation4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -37,6 +38,9 @@ body{
     text-align: center;
     margin-bottom: 800px;
 }
+.taka h1{
+    font-size: 35px;
+}
 .tk{
     padding: 25px 15px;
     border-radius: 5px;
@@ -71,6 +75,13 @@ body{
     font-size: 15px;
     text-align: center;
     color: rgb(214, 209, 209);
+}
+.plan{
+    margin-top: 135px;
+    text-align: center;
+}
+.togather{
+    margin-top: 50px;
 }
 
 
