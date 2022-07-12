@@ -127,5 +127,10 @@ body{
     display: flex;
     width: 30%;
     margin: 10px 80px 50px 100px;
+    margin-top: 80px;
+}
+.grm{
+    text-align: center;
+    margin-top: 80px;
 }
 
