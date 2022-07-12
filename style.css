@@ -133,4 +133,45 @@ body{
     text-align: center;
     margin-top: 80px;
 }
-
+input[type="email"]
+{
+    background-image: linear-gradient(rgb(205, 195, 195),rgb(220, 200, 200));
+    width: 200px;
+    height: 40px;
+    border: none;
+    outline: none;
+    padding: 0 15px;
+    border-radius: 3px 0 0 3px;
+}
+input[type="button"]
+{
+    position: relative;
+    left: -5px;
+    border-radius: 0 3px 3px 0;
+    width: 100px;
+    height: 40px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-image: linear-gradient(orange,tomato);
+}
+.in{
+    margin-top: 80px;
+    text-align: center;
+    border: 50px solid pink;
+    margin: 100px 504.5px 100px 501px;
+}
+.last{
+    font-family: 'Lobster Two', cursive;
+    font-size: 30px;
+    color:rgb(235, 43, 43) ;
+}
+.coto{
+    font-size: 8px;
+    color: white;
+    margin-bottom: 10px;
+}
+.finis{
+    background-color: black;
+    margin: auto;
+}
